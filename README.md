@@ -1,2 +1,2 @@
 # yelp-factbook
-A final project for Big Data class
+The Final project for Big Data class
